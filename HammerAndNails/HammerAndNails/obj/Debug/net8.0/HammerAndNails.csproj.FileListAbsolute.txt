@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\bin\Debug\net8.0\HammerAndNails.exe
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\bin\Debug\net8.0\HammerAndNails.deps.json
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\bin\Debug\net8.0\HammerAndNails.runtimeconfig.json
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\bin\Debug\net8.0\HammerAndNails.dll
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\bin\Debug\net8.0\HammerAndNails.pdb
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\obj\Debug\net8.0\HammerAndNails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\obj\Debug\net8.0\HammerAndNails.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\obj\Debug\net8.0\HammerAndNails.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\obj\Debug\net8.0\HammerAndNails.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\obj\Debug\net8.0\HammerAndNails.dll
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\obj\Debug\net8.0\refint\HammerAndNails.dll
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\obj\Debug\net8.0\HammerAndNails.pdb
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\obj\Debug\net8.0\HammerAndNails.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\HammerAndNails\HammerAndNails\obj\Debug\net8.0\ref\HammerAndNails.dll
